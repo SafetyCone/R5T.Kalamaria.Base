@@ -1,0 +1,4 @@
+R5T.Kalamaria.Base.Construction - A construction console-app for the library R5T.Kalamaria.Base.
+
+Goals
+
